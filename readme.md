@@ -1,2 +1,1 @@
-asdo
 test
